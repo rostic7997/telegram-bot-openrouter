@@ -2,6 +2,12 @@
 
 вам нужно получить ключ на OpenRouter и вставить в код 
 вам нужно получить telegram bot API ключ откройте telegram и зайдите в @BotFather и создайте бота и получите API и вставте в код 
+```
+git clone https://github.com/rostic7997/telegram-bot-openrouter.git
+```
+```
+cd telegram-bot-openrouter
+```
 
 создаём виртуальное окружение 
 ```
